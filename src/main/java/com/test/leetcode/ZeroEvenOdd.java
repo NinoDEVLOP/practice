@@ -171,15 +171,5 @@ class ZeroEvenOdd {
         a.start();
         c.start();
         b.start();
-//        Thread.currentThread().getThreadGroup().toString();
-
-//        while(Thread.activeCount() >= 2) {
-//            try {
-//                Thread.sleep(2000);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
-//            System.out.println("i:" + zeroEvenOdd.i);
-//        }
     }
 }
